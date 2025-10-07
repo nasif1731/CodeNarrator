@@ -77,13 +77,6 @@ def add_numbers(a, b):
 - **Cosine Similarity** — Semantic similarity between embedding spaces
 - **Perplexity** — Model confidence on unseen samples
 
-## 🧑‍💻 Authors
-
-**Team:** FAST-NUCES (CFD Campus)
-
-- **Nehal Asif** — Project Owner / ML Engineer
-- **Ibrahim Muhammad Khan** — LSTM Pipeline & Report Author
-- **Team Members** — Tokenizer, Embedding, Evaluation Modules
 
 ## 📚 References
 
